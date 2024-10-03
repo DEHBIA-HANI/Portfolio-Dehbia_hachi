@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43f1497d.css",
+    "main.js": "/static/js/main.537a4f98.js",
+    "static/media/Dehbia1.webp": "/static/media/Dehbia1.1ad046520940b7665bad.webp",
+    "static/media/logo.webp": "/static/media/logo.0f851e8d3ca0d0a74948.webp",
+    "static/media/logoTechno.webp": "/static/media/logoTechno.51290693295283586f32.webp",
+    "index.html": "/index.html",
+    "main.43f1497d.css.map": "/static/css/main.43f1497d.css.map",
+    "main.537a4f98.js.map": "/static/js/main.537a4f98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43f1497d.css",
+    "static/js/main.537a4f98.js"
+  ]
+}
